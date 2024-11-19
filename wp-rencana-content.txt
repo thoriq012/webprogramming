@@ -1,6 +1,7 @@
 RENCANA KONTEN 
 -Javascript
   *Framework Javascript
+-Struktur data
 -Html
 -Css
 -Vlog
