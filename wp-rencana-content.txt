@@ -1,7 +1,12 @@
 RENCANA KONTEN 
 -Javascript
   *Framework Javascript
+    ^Vue
+    ^React
 -Struktur data
+-Php framework
+   ^Laravel
 -Html
 -Css
 -Vlog
+-Phyton
