@@ -1,0 +1,3 @@
+-Membuat plafrom untuk pengelolaan video
+-Membuat forrum diskusi
+-Kolaborasi dengan lebih banyak expert
